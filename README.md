@@ -9,7 +9,9 @@ A lightweight, object-oriented Python application designed to demonstrate softwa
 
 ## How to Run
 ```bash
-python task_manager.py
+## How to Run
+1. Open `Object_Oriented_Task_Management_System.ipynb` in **VS Code**, **Jupyter Notebook**, **PyCharm**, or **Google Colab**.
+2. Run all cells sequentially to view class instantiations and sample execution output.
 ```
 
 ```
