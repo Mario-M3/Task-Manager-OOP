@@ -10,10 +10,9 @@ A lightweight, object-oriented Python application designed to demonstrate softwa
 ## How to Run
 ```bash
 python task_manager.py
+```
 
-Sample Output
-Plaintext
-
+```
 === TASK MANAGEMENT SYSTEM OUTPUT ===
 ==============================
 ID:          101
@@ -21,3 +20,4 @@ Description: Setup Database Schema
 Status:      In Progress
 Assigned To: Alice
 ==============================
+```
